@@ -4,7 +4,7 @@ honolulu!
 # title1
 ## title2
 [Link](https://github.com/HaochenWang1243/cse15l-lab-reports/edit/main/index.md)
-![image](http://url/a.png)
+![image](https://commonmark.org/help/images/favicon.png)
 > Blockquote
 * list1
 * lis2
