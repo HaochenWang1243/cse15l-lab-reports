@@ -4,7 +4,7 @@
 ## change __No.1__    
 __line 43__ add statement  
 `if(markdown.charAt(nextOpenBracket - 1) != '!')`  
-This change intends to address the incorrect output caused by a image link. Image link should not be included in the collections of URLs.The `if` statement prevent any image link to be added to the output.
+This change intends to address the incorrect output caused by a image link. Image link should not be included in the collections of URLs.The `if` statement prevent any image link to be added to the output.  
 __bug__: program would read image links
 link to the failure-inducing input:  
 [failure-inducing input-1](test-file-2.md)  
