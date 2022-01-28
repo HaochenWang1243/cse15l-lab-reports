@@ -1,0 +1,2 @@
+ 
+[notlink]no(ppap)
