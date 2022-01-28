@@ -10,7 +10,6 @@ link to the failure-inducing input:
 [failure-inducing input-1](test-file-2.md)  
 __symptom__: image link included in the output
  ![here](imageCaptured.jpg)
-___  
 ## change __No.2__ ##    
 __line 43__ changed to:
 `if(nextOpenBracket==0 || markdown.charAt(nextOpenBracket - 1) != '!')`  
@@ -20,7 +19,6 @@ link to the failure-inducing input:
 [failure-inducing input-2](test-file-3.md)  
 __symptom__: `StringIndexOutOfBoundsException` thrown
  ![here](indexOf[-1Is-1.jpg)
-___  
 ## change __No.3__ ##  
 __line 43__ changed to: 
 `if (nextCloseBracket+1==openParen && (nextOpenBracket ==0 || markdown.charAt(nextOpenBracket - 1) != '!'))`  
