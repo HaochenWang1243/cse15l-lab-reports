@@ -1,4 +1,6 @@
 # CSE 15L Lab Report 4
+## link to __my__ markdown-parse repository is [here](https://github.com/HaochenWang1243/markdown-parse)
+## link to the markdown-parse repository __I reviewed__ is [here](https://github.com/sallada1/markdown-parse)
 ## previews of Snippets 1&2&3:
 ![Snippet1](Snippet1.jpg)
 ![Snippet2](Snippet2.jpg)
