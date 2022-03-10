@@ -24,7 +24,7 @@ This is the implementation in __Joe's__ MarkdownParse.java where the link is add
 ## description of correct output and existing bugs when testing `test-files/510.md`: 
 I think the expected output is  
 `[]`  
-because there is a while space between `]` and `(`  
+because there is a white space between `]` and `(`  
 output when testing  `test-files/510.md`:  
 ![510-outpt](510-output.jpg)  
 According to the actual output I think __my__ implementation is __correct__ for test `510.md`.  
